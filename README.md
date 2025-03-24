@@ -1,1 +1,1 @@
-### JasonCrk's NeoVIM Config
+# JasonCrk's NeoVIM Config
